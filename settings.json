@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AncientSMPOff.aternos.me",
+    "ip": "AncientSMPOn.aternos.me",
     "port": 26375,
     "version": "1.20.1",
     "try-creative": false
